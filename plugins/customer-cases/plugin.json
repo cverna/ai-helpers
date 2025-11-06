@@ -1,0 +1,8 @@
+{
+  "name": "customer-cases",
+  "description": "Use the jira CLI to query CoreOS OCPBUGS issues with open customer cases",
+  "version": "1.0.0",
+  "author": {
+    "name": "Clement Verna"
+  }
+}

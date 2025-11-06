@@ -8,6 +8,11 @@
       "name": "pipeline-status",
       "source": "./plugins/pipeline-status",
       "description": "Summarize the status of the RHCOS pipeline using Slack"
+    },
+    {
+      "name": "customer-cases",
+      "source": "./plugins/customer-cases",
+      "description": "Summarize the RHCOS OCPBUGS with an open Customer Case"
     }
   ]
 }
